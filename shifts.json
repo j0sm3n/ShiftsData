@@ -1,0 +1,2971 @@
+{
+  "metadata": {
+    "updated_at": "2024-06-15T10:30:00Z",
+    "description": "Work shifts and schedules for Tram Alacant employees. Includes details of trains assigned to driver shifts.",
+    "version": "1.0"
+  },
+  "shift_categories": [
+    {
+      "category": "Maquinista",
+      "residence": "Benidorm",
+      "shifts": [
+        {
+          "name": "1",
+          "start_time": "05:05",
+          "duration": 380,
+          "trains": [
+            {
+              "number": 9001,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "05:35",
+              "estimated_arrival_time": "06:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "05:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "05:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "05:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "05:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "05:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "05:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "05:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "05:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "05:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "06:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "06:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "06:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "06:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "06:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "06:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "06:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "06:56"
+                }
+              ]
+            },
+            {
+              "number": 9006,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "07:02",
+              "estimated_arrival_time": "08:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "07:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "07:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "07:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "07:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "07:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "07:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "07:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "07:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "08:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "08:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "08:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "08:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "08:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "08:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "08:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "08:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "08:24"
+                }
+              ]
+            }
+          ],
+          "saturation_percentage": 48.15
+        },
+        {
+          "name": "2",
+          "start_time": "05:15",
+          "duration": 444,
+          "trains": [
+            {
+              "number": 9003,
+              "origin": "Benidorm",
+              "destination": "Garganes",
+              "departure": "05:45",
+              "estimated_arrival_time": "06:03",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "05:45"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "05:47"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "05:49"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "05:52"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "05:55"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "06:00"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "06:03"
+                }
+              ]
+            },
+            {
+              "number": 9002,
+              "origin": "Garganes",
+              "destination": "Benidorm",
+              "departure": "06:06",
+              "estimated_arrival_time": "06:24",
+              "stops": [
+                {
+                  "station_name": "Garganes",
+                  "departure": "06:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "06:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "06:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "06:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "06:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "06:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "06:24"
+                }
+              ]
+            },
+            {
+              "number": 9007,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "07:35",
+              "estimated_arrival_time": "08:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "07:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "07:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "07:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "07:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "07:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "07:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "07:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "07:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "07:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "08:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "08:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "08:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "08:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "08:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "08:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "08:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "08:56"
+                }
+              ]
+            },
+            {
+              "number": 9010,
+              "origin": "Denia",
+              "destination": "Teulada",
+              "departure": "09:02",
+              "estimated_arrival_time": "09:29",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "09:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "09:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "09:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "09:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "09:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "09:29"
+                }
+              ]
+            },
+            {
+              "number": 9009,
+              "origin": "Teulada",
+              "destination": "Denia",
+              "departure": "09:30",
+              "estimated_arrival_time": "09:56",
+              "stops": [
+                {
+                  "station_name": "Teulada",
+                  "departure": "09:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "09:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "09:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "09:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "09:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "09:56"
+                }
+              ]
+            },
+            {
+              "number": 9014,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "11:02",
+              "estimated_arrival_time": "12:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "11:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "11:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "11:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "11:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "11:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "11:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "11:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "11:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "12:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "12:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "12:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "12:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "12:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "12:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "12:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "12:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "12:24"
+                }
+              ]
+            }
+          ],
+          "saturation_percentage": 65.66
+        },
+        {
+          "name": "3",
+          "start_time": "06:20",
+          "duration": 499,
+          "trains": [
+            {
+              "number": 9005,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "06:35",
+              "estimated_arrival_time": "07:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "06:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "06:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "06:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "06:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "06:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "06:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "06:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "06:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "06:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "07:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "07:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "07:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "07:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "07:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "07:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "07:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "07:56"
+                }
+              ]
+            },
+            {
+              "number": 9008,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "08:02",
+              "estimated_arrival_time": "09:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "08:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "08:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "08:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "08:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "08:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "08:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "08:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "08:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "09:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "09:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "09:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "09:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "09:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "09:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "09:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "09:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "09:24"
+                }
+              ]
+            },
+            {
+              "number": 9013,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "10:35",
+              "estimated_arrival_time": "11:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "10:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "10:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "10:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "10:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "10:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "10:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "10:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "10:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "10:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "11:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "11:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "11:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "11:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "11:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "11:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "11:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "11:56"
+                }
+              ]
+            },
+            {
+              "number": 9018,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "13:02",
+              "estimated_arrival_time": "14:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "13:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "13:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "13:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "13:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "13:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "13:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "13:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "13:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "14:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "14:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "14:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "14:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "14:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "14:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "14:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "14:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "14:24"
+                }
+              ]
+            }
+          ],
+          "saturation_percentage": 70.79
+        },
+        {
+          "name": "4",
+          "start_time": "09:20",
+          "duration": 499,
+          "trains": [
+            {
+              "number": 9011,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "09:35",
+              "estimated_arrival_time": "10:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "09:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "09:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "09:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "09:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "09:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "09:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "09:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "09:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "09:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "10:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "10:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "10:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "10:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "10:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "10:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "10:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "10:56"
+                }
+              ]
+            },
+            {
+              "number": 9016,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "12:02",
+              "estimated_arrival_time": "13:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "12:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "12:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "12:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "12:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "12:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "12:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "12:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "12:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "13:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "13:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "13:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "13:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "13:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "13:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "13:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "13:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "13:24"
+                }
+              ]
+            },
+            {
+              "number": 9019,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "13:35",
+              "estimated_arrival_time": "14:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "13:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "13:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "13:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "13:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "13:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "13:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "13:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "13:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "13:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "14:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "14:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "14:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "14:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "14:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "14:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "14:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "14:56"
+                }
+              ]
+            },
+            {
+              "number": 9024,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "16:02",
+              "estimated_arrival_time": "17:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "16:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "16:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "16:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "16:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "16:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "16:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "16:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "16:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "17:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "17:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "17:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "17:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "17:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "17:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "17:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "17:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "17:24"
+                }
+              ]
+            }
+          ],
+          "saturation_percentage": 69.51
+        },
+        {
+          "name": "5",
+          "start_time": "14:20",
+          "duration": 499,
+          "trains": [
+            {
+              "number": 9021,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "14:35",
+              "estimated_arrival_time": "15:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "14:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "14:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "14:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "14:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "14:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "14:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "14:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "14:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "14:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "15:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "15:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "15:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "15:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "15:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "15:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "15:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "15:56"
+                }
+              ]
+            },
+            {
+              "number": 9026,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "17:02",
+              "estimated_arrival_time": "18:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "17:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "17:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "17:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "17:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "17:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "17:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "17:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "17:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "18:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "18:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "18:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "18:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "18:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "18:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "18:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "18:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "18:24"
+                }
+              ]
+            },
+            {
+              "number": 9031,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "19:35",
+              "estimated_arrival_time": "20:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "19:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "19:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "19:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "19:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "19:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "19:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "19:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "19:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "19:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "20:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "20:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "20:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "20:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "20:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "20:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "20:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "20:56"
+                }
+              ]
+            },
+            {
+              "number": 9034,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "21:02",
+              "estimated_arrival_time": "22:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "21:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "21:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "21:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "21:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "21:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "21:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "21:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "21:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "22:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "22:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "22:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "22:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "22:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "22:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "22:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "22:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "22:24"
+                }
+              ]
+            }
+          ],
+          "saturation_percentage": 70.79
+        },
+        {
+          "name": "6",
+          "start_time": "17:09",
+          "duration": 380,
+          "trains": [
+            {
+              "number": 9029,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "18:35",
+              "estimated_arrival_time": "19:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "18:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "18:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "18:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "18:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "18:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "18:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "18:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "18:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "18:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "19:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "19:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "19:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "19:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "19:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "19:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "19:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "19:56"
+                }
+              ]
+            },
+            {
+              "number": 9032,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "20:02",
+              "estimated_arrival_time": "21:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "20:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "20:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "20:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "20:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "20:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "20:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "20:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "20:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "21:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "21:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "21:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "21:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "21:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "21:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "21:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "21:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "21:24"
+                }
+              ]
+            },
+            {
+              "number": 9037,
+              "origin": "Benidorm",
+              "destination": "Garganes",
+              "departure": "22:35",
+              "estimated_arrival_time": "22:53",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "22:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "22:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "22:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "22:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "22:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "22:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "22:53"
+                }
+              ]
+            },
+            {
+              "number": 9036,
+              "origin": "Garganes",
+              "destination": "Benidorm",
+              "departure": "22:56",
+              "estimated_arrival_time": "23:14",
+              "stops": [
+                {
+                  "station_name": "Garganes",
+                  "departure": "22:56"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "22:59"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "23:04"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "23:08"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "23:10"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "23:12"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "23:14"
+                }
+              ]
+            }
+          ],
+          "saturation_percentage": 56.83
+        },
+        {
+          "name": "7",
+          "start_time": "15:20",
+          "duration": 499,
+          "trains": [
+            {
+              "number": 9023,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "15:35",
+              "estimated_arrival_time": "16:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "15:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "15:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "15:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "15:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "15:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "15:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "15:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "15:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "15:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "16:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "16:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "16:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "16:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "16:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "16:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "16:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "16:56"
+                }
+              ]
+            },
+            {
+              "number": 9028,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "18:02",
+              "estimated_arrival_time": "19:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "18:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "18:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "18:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "18:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "18:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "18:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "18:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "18:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "19:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "19:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "19:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "19:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "19:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "19:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "19:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "19:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "19:24"
+                }
+              ]
+            },
+            {
+              "number": 9033,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "20:35",
+              "estimated_arrival_time": "21:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "20:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "20:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "20:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "20:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "20:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "20:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "20:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "20:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "20:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "21:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "21:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "21:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "21:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "21:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "21:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "21:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "21:56"
+                }
+              ]
+            },
+            {
+              "number": 9038,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "22:02",
+              "estimated_arrival_time": "23:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "22:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "22:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "22:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "22:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "22:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "22:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "22:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "22:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "23:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "23:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "23:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "23:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "23:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "23:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "23:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "23:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "23:24"
+                }
+              ]
+            }
+          ],
+          "saturation_percentage": 70.79
+        },
+        {
+          "name": "8",
+          "start_time": "05:05",
+          "duration": 515,
+          "trains": [],
+          "saturation_percentage": 64.65
+        },
+        {
+          "name": "9",
+          "start_time": "14:05",
+          "duration": 480,
+          "trains": [],
+          "saturation_percentage": 64.65
+        },
+        {
+          "name": "CI1",
+          "start_time": "06:30",
+          "duration": 466,
+          "trains": [],
+          "saturation_percentage": 64.65
+        },
+        {
+          "name": "CI2",
+          "start_time": "15:30",
+          "duration": 466,
+          "trains": [],
+          "saturation_percentage": 64.65
+        }
+      ]
+    },
+    {
+      "category": "Maquinista",
+      "residence": "Denia",
+      "shifts": [
+        {
+          "name": "21",
+          "start_time": "05:32",
+          "duration": 459,
+          "trains": [
+            {
+              "number": 9004,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "06:02",
+              "estimated_arrival_time": "07:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "06:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "06:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "06:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "06:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "06:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "06:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "06:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "06:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "07:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "07:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "07:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "07:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "07:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "07:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "07:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "07:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "07:24"
+                }
+              ]
+            },
+            {
+              "number": 9009,
+              "origin": "Benidorm",
+              "destination": "Teulada",
+              "departure": "08:35",
+              "estimated_arrival_time": "09:30",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "08:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "08:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "08:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "08:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "08:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "08:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "08:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "08:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "08:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "09:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "09:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "09:30"
+                }
+              ]
+            },
+            {
+              "number": 9010,
+              "origin": "Teulada",
+              "destination": "Benidorm",
+              "departure": "09:29",
+              "estimated_arrival_time": "10:24",
+              "stops": [
+                {
+                  "station_name": "Teulada",
+                  "departure": "09:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "09:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "09:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "10:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "10:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "10:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "10:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "10:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "10:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "10:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "10:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "10:24"
+                }
+              ]
+            },
+            {
+              "number": 9015,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "11:35",
+              "estimated_arrival_time": "12:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "11:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "11:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "11:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "11:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "11:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "11:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "11:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "11:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "11:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "12:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "12:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "12:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "12:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "12:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "12:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "12:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "12:56"
+                }
+              ]
+            }
+          ],
+          "saturation_percentage": 65.7
+        },
+        {
+          "name": "22",
+          "start_time": "09:47",
+          "duration": 504,
+          "trains": [
+            {
+              "number": 9012,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "10:02",
+              "estimated_arrival_time": "11:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "10:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "10:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "10:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "10:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "10:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "10:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "10:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "10:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "11:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "11:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "11:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "11:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "11:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "11:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "11:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "11:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "11:24"
+                }
+              ]
+            },
+            {
+              "number": 9017,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "12:35",
+              "estimated_arrival_time": "13:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "12:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "12:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "12:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "12:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "12:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "12:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "12:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "12:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "12:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "13:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "13:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "13:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "13:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "13:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "13:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "13:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "13:56"
+                }
+              ]
+            },
+            {
+              "number": 9020,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "14:02",
+              "estimated_arrival_time": "15:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "14:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "14:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "14:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "14:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "14:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "14:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "14:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "14:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "15:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "15:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "15:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "15:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "15:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "15:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "15:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "15:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "15:24"
+                }
+              ]
+            },
+            {
+              "number": 9025,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "16:35",
+              "estimated_arrival_time": "17:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "16:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "16:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "16:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "16:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "16:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "16:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "16:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "16:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "16:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "17:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "17:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "17:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "17:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "17:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "17:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "17:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "17:56"
+                }
+              ]
+            }
+          ],
+          "saturation_percentage": 70.04
+        },
+        {
+          "name": "23",
+          "start_time": "14:47",
+          "duration": 504,
+          "trains": [
+            {
+              "number": 9022,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "15:02",
+              "estimated_arrival_time": "16:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "15:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "15:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "15:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "15:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "15:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "15:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "15:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "15:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "16:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "16:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "16:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "16:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "16:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "16:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "16:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "16:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "16:24"
+                }
+              ]
+            },
+            {
+              "number": 9027,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "17:35",
+              "estimated_arrival_time": "18:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "17:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "17:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "17:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "17:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "17:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "17:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "17:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "17:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "17:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "18:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "18:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "18:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "18:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "18:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "18:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "18:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "18:56"
+                }
+              ]
+            },
+            {
+              "number": 9030,
+              "origin": "Denia",
+              "destination": "Benidorm",
+              "departure": "19:02",
+              "estimated_arrival_time": "20:24",
+              "stops": [
+                {
+                  "station_name": "Denia",
+                  "departure": "19:02"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "19:04"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "19:06"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "19:10"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "19:17"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "19:29"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "19:33"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "19:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "20:00"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "20:03"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "20:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "20:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "20:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "20:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "20:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "20:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "20:24"
+                }
+              ]
+            },
+            {
+              "number": 9035,
+              "origin": "Benidorm",
+              "destination": "Denia",
+              "departure": "21:35",
+              "estimated_arrival_time": "22:56",
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "21:35"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "21:37"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "21:39"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "21:42"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "21:45"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "21:50"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "21:53"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "21:55"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "21:59"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "22:11"
+                },
+                {
+                  "station_name": "Benissa",
+                  "departure": "22:25"
+                },
+                {
+                  "station_name": "Teulada",
+                  "departure": "22:30"
+                },
+                {
+                  "station_name": "Gata",
+                  "departure": "22:41"
+                },
+                {
+                  "station_name": "La Xara",
+                  "departure": "22:48"
+                },
+                {
+                  "station_name": "Pedrera-Vessanes",
+                  "departure": "22:52"
+                },
+                {
+                  "station_name": "Bosc de Diana",
+                  "departure": "22:54"
+                },
+                {
+                  "station_name": "Denia",
+                  "departure": "22:56"
+                }
+              ]
+            }
+          ],
+          "saturation_percentage": 70.04
+        },
+        {
+          "name": "24",
+          "start_time": "05:32",
+          "duration": 460,
+          "trains": [],
+          "saturation_percentage": 68.59
+        },
+        {
+          "name": "25",
+          "start_time": "14:30",
+          "duration": 390,
+          "trains": [],
+          "saturation_percentage": 68.59
+        }
+      ]
+    },
+    {
+      "category": "USI",
+      "residence": "Benidorm",
+      "shifts": [
+        {
+          "name": "1A",
+          "start_time": "05:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "1B",
+          "start_time": "05:20",
+          "duration": 450,
+          "trains": []
+        }
+      ]
+    },
+    {
+      "category": "USI",
+      "residence": "Denia",
+      "shifts": [
+        {
+          "name": "1A",
+          "start_time": "05:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "1B",
+          "start_time": "06:47",
+          "duration": 450,
+          "trains": []
+        }
+      ]
+    }
+  ]
+}
