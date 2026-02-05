@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2024-06-15T10:30:00Z",
+    "updated_at": "2026-02-05T10:30:00Z",
     "description": "Work shifts and schedules for Tram Alacant employees. Includes details of trains assigned to driver shifts.",
     "version": "1.0"
   },
@@ -2946,6 +2946,138 @@
           "start_time": "05:20",
           "duration": 450,
           "trains": []
+        },
+        {
+          "name": "1C",
+          "start_time": "06:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "1D",
+          "start_time": "07:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "2A",
+          "start_time": "05:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "2B",
+          "start_time": "05:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "2C",
+          "start_time": "06:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "2D",
+          "start_time": "07:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "3A",
+          "start_time": "08:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "3B",
+          "start_time": "11:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "3C",
+          "start_time": "07:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "3D",
+          "start_time": "10:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "4A",
+          "start_time": "08:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "4B",
+          "start_time": "11:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "4C",
+          "start_time": "07:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "4D",
+          "start_time": "10:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "5A",
+          "start_time": "16:10",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "5B",
+          "start_time": "16:10",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "5C",
+          "start_time": "13:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "5D",
+          "start_time": "15:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "6A",
+          "start_time": "16:10",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "6B",
+          "start_time": "16:10",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "6C",
+          "start_time": "13:20",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "6D",
+          "start_time": "15:20",
+          "duration": 450,
+          "trains": []
         }
       ]
     },
@@ -2962,6 +3094,138 @@
         {
           "name": "1B",
           "start_time": "06:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "1C",
+          "start_time": "06:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "1D",
+          "start_time": "06:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "2A",
+          "start_time": "05:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "2B",
+          "start_time": "06:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "2C",
+          "start_time": "06:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "2D",
+          "start_time": "06:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "3A",
+          "start_time": "12:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "3B",
+          "start_time": "08:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "3C",
+          "start_time": "13:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "3D",
+          "start_time": "07:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "4A",
+          "start_time": "12:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "4B",
+          "start_time": "08:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "4C",
+          "start_time": "13:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "4D",
+          "start_time": "07:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "5A",
+          "start_time": "15:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "5B",
+          "start_time": "14:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "5C",
+          "start_time": "15:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "5D",
+          "start_time": "14:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "6A",
+          "start_time": "15:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "6B",
+          "start_time": "14:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "6C",
+          "start_time": "15:47",
+          "duration": 450,
+          "trains": []
+        },
+        {
+          "name": "6D",
+          "start_time": "14:47",
           "duration": 450,
           "trains": []
         }
