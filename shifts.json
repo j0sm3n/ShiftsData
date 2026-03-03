@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "updated_at": "2026-02-05T10:30:00Z",
+    "updated_at": "2026-03-03T11:30:00Z",
     "description": "Work shifts and schedules for Tram Alacant employees. Includes details of trains assigned to driver shifts.",
-    "version": "1.0"
+    "version": "2.0"
   },
   "shift_categories": [
     {
@@ -2000,6 +2000,27 @@
           "duration": 466,
           "trains": [],
           "saturation_percentage": 64.65
+        },
+        {
+          "name": "ADC"
+        },
+        {
+          "name": "AV"
+        },
+        {
+          "name": "CI"
+        },
+        {
+          "name": "DC"
+        },
+        {
+          "name": "DT"
+        },
+        {
+          "name": "V"
+        },
+        {
+          "name": "D"
         }
       ]
     },
@@ -2928,6 +2949,27 @@
           "duration": 390,
           "trains": [],
           "saturation_percentage": 68.59
+        },
+        {
+          "name": "ADC"
+        },
+        {
+          "name": "AV"
+        },
+        {
+          "name": "CI"
+        },
+        {
+          "name": "DC"
+        },
+        {
+          "name": "DT"
+        },
+        {
+          "name": "V"
+        },
+        {
+          "name": "D"
         }
       ]
     },
@@ -3078,6 +3120,27 @@
           "start_time": "15:20",
           "duration": 450,
           "trains": []
+        },
+        {
+          "name": "ADC"
+        },
+        {
+          "name": "AV"
+        },
+        {
+          "name": "CI"
+        },
+        {
+          "name": "DC"
+        },
+        {
+          "name": "DT"
+        },
+        {
+          "name": "V"
+        },
+        {
+          "name": "D"
         }
       ]
     },
@@ -3228,6 +3291,27 @@
           "start_time": "14:47",
           "duration": 450,
           "trains": []
+        },
+        {
+          "name": "ADC"
+        },
+        {
+          "name": "AV"
+        },
+        {
+          "name": "CI"
+        },
+        {
+          "name": "DC"
+        },
+        {
+          "name": "DT"
+        },
+        {
+          "name": "V"
+        },
+        {
+          "name": "D"
         }
       ]
     }
