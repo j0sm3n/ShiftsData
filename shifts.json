@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-06-26T17:30:00Z",
+    "updated_at": "2026-07-31T10:58:00Z",
     "description": "Work shifts and schedules for Tram Alacant employees. Includes details of trains assigned to driver shifts.",
     "version": "2.0"
   },
@@ -2451,6 +2451,34 @@
               ]
             }
           ]
+        },
+        {
+          "name": "A31",
+          "start_time": "18:40",
+          "duration": 470,
+          "trains": [],
+          "saturation_percentage": 0
+        },
+        {
+          "name": "A32",
+          "start_time": "21:55",
+          "duration": 397,
+          "trains": [],
+          "saturation_percentage": 0
+        },
+        {
+          "name": "A33",
+          "start_time": "22:55",
+          "duration": 334,
+          "trains": [],
+          "saturation_percentage": 0
+        },
+        {
+          "name": "A34",
+          "start_time": "23:12",
+          "duration": 391,
+          "trains": [],
+          "saturation_percentage": 0
         },
         {
           "name": "ADC"
