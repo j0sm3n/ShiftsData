@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-08-04T10:58:00Z",
+    "updated_at": "2026-08-08T17:58:00Z",
     "description": "Work shifts and schedules for Tram Alacant employees. Includes details of trains assigned to driver shifts.",
     "version": "2.0"
   },
@@ -2897,7 +2897,48 @@
               "destination": "Calp",
               "departure": "22:10",
               "estimated_arrival_time": "22:46",
-              "stops": []
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "22:10"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "22:12"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "22:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "22:17"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "22:20"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "22:25"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "22:28"
+                },
+                {
+                  "station_name": "Cap Negret",
+                  "departure": "22:30"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "22:34"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "22:46"
+                }
+              ]
             },
             {
               "number": 9808,
@@ -2905,7 +2946,16 @@
               "destination": "Olla Altea",
               "departure": "23:05",
               "estimated_arrival_time": "23:17",
-              "stops": []
+              "stops": [
+                {
+                  "station_name": "Calp",
+                  "departure": "23:05"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "23:17"
+                }
+              ]
             },
             {
               "number": 9809,
@@ -2913,7 +2963,16 @@
               "destination": "Calp",
               "departure": "23:17",
               "estimated_arrival_time": "23:29",
-              "stops": []
+              "stops": [
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "23:17"
+                },
+                {
+                  "station_name": "Calp",
+                  "departure": "23:29"
+                }
+              ]
             },
             {
               "number": 9810,
@@ -2921,7 +2980,16 @@
               "destination": "Olla Altea",
               "departure": "23:30",
               "estimated_arrival_time": "23:42",
-              "stops": []
+              "stops": [
+                {
+                  "station_name": "Calp",
+                  "departure": "23:30"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "23:42"
+                }
+              ]
             },
             {
               "number": 9816,
@@ -2929,7 +2997,40 @@
               "destination": "Benidorm",
               "departure": "01:01",
               "estimated_arrival_time": "01:24",
-              "stops": []
+              "stops": [
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "01:01"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "01:06"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "01:09"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "01:14"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "01:18"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "01:20"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "01:22"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "01:24"
+                }
+              ]
             },
             {
               "number": 9825,
@@ -2937,7 +3038,40 @@
               "destination": "Olla Altea",
               "departure": "01:30",
               "estimated_arrival_time": "01:53",
-              "stops": []
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "01:30"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "01:32"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "01:34"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "01:37"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "01:40"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "01:45"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "01:48"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "01:53"
+                }
+              ]
             },
             {
               "number": 9824,
@@ -2945,7 +3079,40 @@
               "destination": "Benidorm",
               "departure": "02:10",
               "estimated_arrival_time": "02:33",
-              "stops": []
+              "stops": [
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "02:10"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "02:15"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "02:18"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "02:23"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "02:27"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "02:29"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "02:31"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "02:33"
+                }
+              ]
             },
             {
               "number": 9833,
@@ -2953,7 +3120,40 @@
               "destination": "Olla Altea",
               "departure": "03:13",
               "estimated_arrival_time": "03:36",
-              "stops": []
+              "stops": [
+                {
+                  "station_name": "Benidorm",
+                  "departure": "03:13"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "03:15"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "03:17"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "03:20"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "03:23"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "03:28"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "03:31"
+                },
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "03:36"
+                }
+              ]
             },
             {
               "number": 9832,
@@ -2961,7 +3161,40 @@
               "destination": "Benidorm",
               "departure": "03:54",
               "estimated_arrival_time": "04:17",
-              "stops": []
+              "stops": [
+                {
+                  "station_name": "Olla Altea",
+                  "departure": "03:54"
+                },
+                {
+                  "station_name": "Garganes",
+                  "departure": "03:59"
+                },
+                {
+                  "station_name": "Altea",
+                  "departure": "04:02"
+                },
+                {
+                  "station_name": "El Albir",
+                  "departure": "04:07"
+                },
+                {
+                  "station_name": "L'Alfàs del Pi",
+                  "departure": "04:11"
+                },
+                {
+                  "station_name": "Cami Coves",
+                  "departure": "04:13"
+                },
+                {
+                  "station_name": "Benidorm Intermodal",
+                  "departure": "04:15"
+                },
+                {
+                  "station_name": "Benidorm",
+                  "departure": "04:17"
+                }
+              ]
             }
           ],
           "saturation_percentage": 0
