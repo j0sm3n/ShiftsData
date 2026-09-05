@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-08-09T10:58:00Z",
+    "updated_at": "2026-09-05T17:58:00Z",
     "description": "Work shifts and schedules for Tram Alacant employees. Includes details of trains assigned to driver shifts.",
     "version": "2.0"
   },
@@ -2481,6 +2481,9 @@
         },
         {
           "name": "CU2"
+        },
+        {
+          "name": "REM"
         },
         {
           "name": "E"
